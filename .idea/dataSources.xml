@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hsqldb" uuid="bd15afdb-1b55-43ea-bb02-879511481c90">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/../hsqlFolder/itpirdb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="itpirdb@localhost" uuid="1e4cd3dc-a213-466f-9a03-a25d357c4c1d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/itpirdb</jdbc-url>
+    </data-source>
+  </component>
+</project>

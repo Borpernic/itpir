@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itpir:war">
+    <output-path>$PROJECT_DIR$/itpir/target</output-path>
+    <root id="archive" name="itpir.war">
+      <element id="artifact" artifact-name="itpir:war exploded" />
+    </root>
+  </artifact>
+</component>
